@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fnst.smartwork</string>
+				<string>lovebird.rayline</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>xxx.ipa</string>
+				<string>rayline.ipa</string>
 			</dict>
 		</dict>
 	</array>
