@@ -8,4 +8,3 @@
 
 - 1.0 2017-7-10
     - [IOS](itms-services://?action=download-manifest&url=https://lovebirdsx.github.io/release/rayline/1.0/rayline.plist)
-    - [IOS 2](itms-services://?action=download-manifest&url=https://lovebirdsx.github.io/release/rayline/1.0/rayline1.plist)
