@@ -1,3 +1,3 @@
 - [blog](blog)
 - [release](release)
-- [work]
+- [work](work)
