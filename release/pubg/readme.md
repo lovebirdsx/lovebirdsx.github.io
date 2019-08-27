@@ -1,10 +1,12 @@
-# Pubg releases
+# X5 发布版
 
-## Notice
+## IOS
 
-- IOS release must open by iphone browser
+安装步骤:
 
-## Versions
+- [安装(通过iphone的浏览器打开)](itms-services://?action=download-manifest&url=https://code.aliyun.com/lovebirdsx/pubg_pub/raw/master/latest/pubg.plist)
+- 信任安装程序: 设置->通用->设备管理->Guangzhou ...->信任"Guangzhou ..."
 
-- Latest 2018/12/25
-    - [IOS](itms-services://?action=download-manifest&url=https://code.aliyun.com/lovebirdsx/pubg_pub/raw/master/latest/pubg.plist)
+## Android
+
+- [下载](https://code.aliyun.com/lovebirdsx/pubg_pub/blob/master/latest/X5DemoTest.apk)
